@@ -3,6 +3,7 @@
 <p align="center">Aspiring Frontend Developer from Machilipatnam, India</p>
 
 <p align="center">
+  <a href="https://portfolio-pied-alpha-yqtz861m4p.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-4F46E5?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/jayathi-chinni-548055320/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:jayathichinni@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
@@ -82,6 +83,7 @@
 <h2>Let's connect</h2>
 
 <ul>
+  <li><a href="https://portfolio-pied-alpha-yqtz861m4p.vercel.app/">Portfolio</a></li>
   <li><a href="https://www.linkedin.com/in/jayathi-chinni-548055320/">LinkedIn</a></li>
   <li><a href="mailto:jayathichinni@gmail.com">Email</a></li>
 </ul>
